@@ -1,0 +1,24 @@
+{
+  "name": "rot13",
+  "version": "1.0.0",
+  "description": "Rot13 Algorithm",
+  "keywords": [
+    "rot13",
+    "cipher-utils"
+  ],
+  "homepage": "https://github.com/armasahar/rot13#readme",
+  "bugs": {
+    "url": "https://github.com/armasahar/rot13/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armasahar/rot13.git"
+  },
+  "license": "MIT",
+  "author": "Arma Sahar arma@code.in",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
